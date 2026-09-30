@@ -92,7 +92,7 @@ The power signals are filtered before entering the droop gains. The resulting vo
 
 ## What This Project Demonstrates
 
-This project demonstrates practical understanding of:
+This project demonstrates:
 
 - Converter-interfaced microgrids
 - Droop-based decentralized power sharing
@@ -108,9 +108,6 @@ This project demonstrates practical understanding of:
 ## Technical Report
 
 The complete technical report is available in [`docs/`](docs/).
-
-**Recommended recruiter entry point:**  
-`docs/Three_VSC_Microgrid_Droop_Control_Technical_Report.pdf`
 
 ## Figures
 
